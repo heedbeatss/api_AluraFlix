@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^0.17.0"
+  },
+  "name": "api-aluraflix",
+  "version": "1.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "André Moreno",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "16a34c76-b1eb-4791-a999-94c052d3f697",
+      "title": "Guia de carreira Front-end | #HipstersPontoTube?",
+      "description": "Nova temporada de Hipsters.tube no ar e agora com foco em carreira!",
+      "image": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "videoLink": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "category": "frontend"
+    },
+    {
+      "id": "2c74549e-6842-436c-8871-98442716e2b0",
+      "title": "Introdução ao Backend",
+      "description": "Aprenda os fundamentos do desenvolvimento de back-end!",
+      "image": "video-backend.jpg",
+      "videoLink": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+      "category": "backend"
+    },
+    {
+      "id": "3f8a9d23-4567-4891-a123-99c052d3f697",
+      "title": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+      "description": "Por onde começar a testar as habilidades em Front-end?",
+      "image": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+      "videoLink": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+      "category": "frontend"
+    },
+    {
+      "id": "4b23765c-7890-4123-a567-00c052d3f697",
+      "title": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+      "description": "Você sabe quais métricas são importantes no Front-End?",
+      "image": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+      "videoLink": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+      "category": "frontend"
+    },
+    {
+      "id": "5c98234d-1234-4567-a890-11c052d3f697",
+      "title": "Python para Iniciantes",
+      "description": "Aprenda a programar em Python, uma linguagem versátil e popular.",
+      "image": "video-python.jpg",
+      "videoLink": "https://www.youtube.com/watch?v=S0_q-64-M10",
+      "category": "backend"
+    },
+    {
+      "id": "6d09345f-2345-4678-a901-22c052d3f697",
+      "title": "Banco de Dados com MySQL",
+      "description": "Aprenda a gerenciar e manipular dados com MySQL.",
+      "image": "video-mysql.jpg",
+      "videoLink": "https://www.youtube.com/watch?v=R3I0oF6N28k",
+      "category": "backend"
+    },
+    {
+      "id": "7e10456g-3456-4789-ab02-33c052d3f697",
+      "title": "Git e GitHub para Desenvolvedores",
+      "description": "Domine o Git e o GitHub para gerenciar seus projetos de código.",
+      "image": "video-git.jpg",
+      "videoLink": "https://www.youtube.com/watch?v=HGOlo6G_QzI",
+      "category": "gestao"
+    },
+    {
+      "id": "8f21567h-4567-4890-bc03-44c052d3f697",
+      "title": "Agile e Scrum: Metodologias Ágeis",
+      "description": "Entenda as práticas ágeis para desenvolvimento de software.",
+      "image": "video-agile.jpg",
+      "videoLink": "https://www.youtube.com/watch?v=W-7N3795_hI",
+      "category": "gestao"
+    },
+    {
+      "id": "9g32678i-5678-4901-cd04-55c052d3f697",
+      "title": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+      "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo.",
+      "image": "https://www.youtube.com/watch?v=kyFiT4ofMwk&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa&index=1",
+      "videoLink": "https://www.youtube.com/watch?v=kyFiT4ofMwk&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa&index=1",
+      "category": "frontend"
+    },
+    {
+      "id": "0h43789j-6789-4012-de05-66c052d3f697",
+      "title": "Blazor: o que é, WebAssembly e o uso de C# no Front-End | #AluraMais",
+      "description": "Com este tutorial, aprenda sobre Blazor (o framework da Microsoft) e WebAssembly.",
+      "image": "https://www.youtube.com/watch?v=VxPvnLGz8QQ&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa&index=2",
+      "videoLink": "https://www.youtube.com/watch?v=VxPvnLGz8QQ&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa&index=2",
+      "category": "frontend"
+    }
+  ]
+}
